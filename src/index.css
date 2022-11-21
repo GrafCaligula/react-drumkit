@@ -1,0 +1,28 @@
+body {
+  background: teal;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.drumPads {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  
+}
+
+.drum-pad {
+  width: 100px;
+  height: 100px;
+  background: yellow; 
+  border: 1px solid; 
+  
+}

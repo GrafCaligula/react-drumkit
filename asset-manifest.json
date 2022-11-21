@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-drumkit/static/css/main.9c85a9ba.css",
+    "main.js": "/react-drumkit/static/js/main.a0846d84.js",
+    "index.html": "/react-drumkit/index.html",
+    "main.9c85a9ba.css.map": "/react-drumkit/static/css/main.9c85a9ba.css.map",
+    "main.a0846d84.js.map": "/react-drumkit/static/js/main.a0846d84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c85a9ba.css",
+    "static/js/main.a0846d84.js"
+  ]
+}
